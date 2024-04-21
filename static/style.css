@@ -1,0 +1,31 @@
+
+
+
+#form{
+    background-color: green;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding: 15px;
+    border: 4px solid black;
+    border-radius: 20px;
+}
+
+label{
+    float: left;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+input{
+    float: right;
+    border-radius: 15px;
+}
+
+button{
+    font-size: 30px;
+    background: rgb(138, 242, 138);
+    height: 40px;
+    border: 2px solid white;
+    border-radius: 10px;
+}
